@@ -1,6 +1,5 @@
 # Learn-Bootstrap
-Layout website with no efforts. 
-Hack-Code
+Layout website with no efforts.
 
 This repository do not intend to teach the concepts of Web development, but to train minds to approach a problem. The examples has been kept simple and very descriptive. The solutions provided are not the only solution, you can find your own solution and may be it can turn out to be better than what has been given. Try to structure & layout, that fits your needs!
 
